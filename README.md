@@ -1,1 +1,4 @@
 # logistic_Regression
+it is a type of linear model that examines the relationship between predictor variables (independent variables) and an output variable (the response, target or dependent variable). The key difference is that linear regression is used when the output is a continuous value—for example, predicting someone's credit score. Logistic regression is used when the outcome is categorical, such as whether a loan is approved or not.
+
+In logistic regression, the model predicts the probability that a specific outcome occurs. For instance, given someone’s financial profile, we might predict the probability that their loan is approved. The output of the model is a value between 0 and 1. Based on a threshold—often 0.5—we classify the outcome as either "approved" or "not approved." Instead of drawing a straight line through the data as we would in linear regression, logistic regression fits an S-shaped curve to map input values to a probability.
